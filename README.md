@@ -1,1 +1,1 @@
-# batman.chess
+## Training a chess engine
